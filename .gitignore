@@ -1,0 +1,17 @@
+# Build Artifacts & Objects
+*.o
+*.ko
+*.mod
+*.mod.c
+*.symvers
+*.order
+.tmp_versions/
+.*.cmd
+
+# Kernel Images
+vmlinuz*
+System.map*
+
+# System/IDE
+.vscode/
+.DS_Store
